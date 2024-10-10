@@ -1,7 +1,20 @@
 ion-toolbar{
-  --background : #ffabf7;
+  --background : #ffa8e9;
   text-align: center;
 }
 ion-content{
-  --background: #ffd0f8;
+  --background: #ffcbf0;
+}
+ion-card{
+  --background: #ff81f6;
+
+}
+ion-card-title{
+  color: #000000;
+}
+ion-card-subtitle{
+  color: #000000;
+}
+ion-card-content{
+  color: #000000;
 }
